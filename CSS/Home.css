@@ -1,3 +1,8 @@
+.lsbtn:hover {
+    background-color: #dff4e0;
+    color: rgb(2, 31, 31);
+}
+
 /*Footer start*/
 .footer-link {
     text-decoration: none;
