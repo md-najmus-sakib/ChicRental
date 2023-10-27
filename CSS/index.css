@@ -8,7 +8,8 @@
 
 .allert {
     text-align: center;
-    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    background-color: rgb(246, 112, 63);
+    /* background-image: linear-gradient(to bottom, #91d2d7 0%, #5ac2ca 100%); */
 }
 
 /*Footer start*/
