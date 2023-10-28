@@ -1,5 +1,14 @@
-.RA-btn:hover {
-    color: rgb(246, 112, 63);
+.orderButton {
+    margin-top: 35px;
+    text-align: center;
+}
+
+.OButton {
+    background-color: rgb(246, 112, 63);
+}
+
+.OButton:hover {
+    color: rgb(255, 255, 255);
 }
 
 /*Footer start*/
