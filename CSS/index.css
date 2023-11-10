@@ -1,15 +1,12 @@
-.panda-bg-info {
-    background-color: #fceae8;
-}
-
-.catagories img {
-    width: 100px;
-}
-
 .allert {
     text-align: center;
     background-color: rgb(246, 112, 63);
     /* background-image: linear-gradient(to bottom, #91d2d7 0%, #5ac2ca 100%); */
+}
+
+.allert:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(246, 112, 63);
 }
 
 /*Footer start*/
